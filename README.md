@@ -20,7 +20,11 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 # Colab Notebook 
 Click below to open and run the full analysis: 
 https://colab.research.google.com/drive/1LSi-wW3RXxClHe0hmADzBj8FrwN677kh#scrollTo=W11PwVb0YmTF
+
 To run it: 
+
 Click the link above. 
+
 Select Runtime > Run all to execute all cells. 
+
 Ensure your Kaggle API key is loaded if using the Kaggle CLI. 
