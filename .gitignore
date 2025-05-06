@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# MacOS system files
+.DS_Store
+
+# Google Colab temporary files
+*.ipynb-out/
