@@ -1,4 +1,4 @@
-# Term-Project-2025
+# Term Project 2025 - ISOM 835
 Predicting Bank Loan Default Using Machine Learning 
 # Project Summary 
 This project uses machine learning to explore a bank customer dataset to predict loan default risk. It applies a full predictive analytics workflow—covering data exploration, preprocessing, modeling, and interpretation—to simulate real-world financial risk analysis. The findings aim to support better loan approval decisions for financial institutions. 
