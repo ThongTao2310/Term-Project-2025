@@ -28,3 +28,4 @@ Click the link above.
 Select Runtime > Run all to execute all cells. 
 
 # Final Report
+Find the Final Report through this link: https://github.com/ThongTao2310/Term-Project-2025/blob/a59df4b7f814810d84bae2c8b18d4060af600a2b/ISOM%20835.pdf
